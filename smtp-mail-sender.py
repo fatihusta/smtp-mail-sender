@@ -2,7 +2,7 @@
 #Simple SMTP Mail Sender
 #I am tested with google mail - content_type starttls
 #@author Fatih USTA
-#@date 2013/11/10
+#@date 2015/06/26
 #fatihusta.com
 
 
